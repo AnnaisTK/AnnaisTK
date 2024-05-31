@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Développeuse%20Front-end;UI%2FUX%20Designer;3%2B%20Années%20d'experience;J'apprends%20tous%20les%20de%20nouvelles%20choses&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=D%C3%A9veloppeuse%20Front-end;UI%2FUX%20Designer;3%2B%20Ann%C3%A9es%20d'exp%C3%A9rience;J'apprends%20tous%20les%20de%20nouvelles%20choses&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22)
+
 </p>
 
 <!-- Social icons section -->
